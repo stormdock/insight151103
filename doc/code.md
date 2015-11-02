@@ -12,4 +12,5 @@ This puts files in ./public/lib
 
 ##### grunt compile
 
+This puts files in ./public/css
 This puts files in ./public/js
