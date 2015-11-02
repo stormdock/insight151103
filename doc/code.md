@@ -6,11 +6,13 @@ The bulk of the code is in 2 spots
 * public/src/js
 * public/views
 
+The following two commands puts files in
+
 ##### bower install
 
-This puts files in ./public/lib
+* ./public/lib
 
 ##### grunt compile
 
-This puts files in ./public/css
-This puts files in ./public/js
+* ./public/css
+* ./public/js
