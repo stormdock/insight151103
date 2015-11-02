@@ -10,9 +10,9 @@ The following two commands puts files in
 
 ##### bower install
 
-* ./public/lib
+* public/lib
 
 ##### grunt compile
 
-* ./public/css
-* ./public/js
+* public/css
+* public/js
