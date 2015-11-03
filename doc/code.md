@@ -16,3 +16,14 @@ The following two commands puts files in
 
 * public/css
 * public/js
+
+### Views
+
+All of these files end in *html* and are in the directory **views**.
+
+* address
+* block
+* block_list
+* index
+* status
+* transaction
