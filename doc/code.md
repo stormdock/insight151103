@@ -21,9 +21,9 @@ The following two commands puts files in
 
 All of these files end in *html* and are in the directory **views**.
 
-* address
-* block
+* **address**
+* **block**
 * block_list
 * index
 * status
-* transaction
+* **transaction**
